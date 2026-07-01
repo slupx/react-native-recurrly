@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "recurrly-frontend",
-    "slug": "recurrly-frontend",
+    "name": "recurrly",
+    "slug": "recurrly",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
